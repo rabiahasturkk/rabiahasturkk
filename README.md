@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rabia</h1>
 <h3 align="flex-start"> 
-📌I’m working on Front-end Development (JavaScript | React).I love to code and get involved with web technologies. Designing user-friendly and compelling web experiences is not just a job for me, it's also a passion. Adapting to the dynamic nature of the front-end world and following the ever-evolving technologies always excite me. I am trying to achieve better projects by constantly improving myself on responsive design and browser compatibility. I use HTML, CSS and JavaScript. You can browse my work and discover interesting projects in my codebase. My interest in technology is not limited to coding. I love traveling and I care a lot about learning about different cultures.
+📌I’m working on Frontend Development (JavaScript | React).I love to code and get involved with web technologies. Designing user-friendly and compelling web experiences is not just a job for me, it's also a passion. Adapting to the dynamic nature of the front-end world and following the ever-evolving technologies always excite me. I am trying to achieve better projects by constantly improving myself on responsive design and browser compatibility. I use HTML, CSS and JavaScript. You can browse my work and discover interesting projects in my codebase. My interest in technology is not limited to coding. I love traveling and I care a lot about learning about different cultures.
 </h3>
 
 
-📫 If you want to collaborate, you can reach me at rabiahstrk1@gmail.com or on LinkedIn. Happy coding !
+📫 If you want to collaborate, you can reach me at rabiahstrk1@gmail.com or on LinkedIn. Happy coding everyone!
 
 
 <h3 align="left">Social Media:</h3>
